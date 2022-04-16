@@ -1,6 +1,6 @@
 # UGC (Unturned Gas Calculator)
 
-UGC is a tool made specifically for Unturned Role-play servers.
+UGC is a tool made specifically for Unturned role-play servers.
 
 
 ### Using UGC
