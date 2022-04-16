@@ -6,7 +6,7 @@ UGC is a tool made specifically for Unturned Role-play servers.
 ### Using UGC
 
 1. Enter your Gas Price.
-2. Enter the amout of percent the tank is on.
+2. Enter the amount of percent the tank is on.
 
 
 ### Example
@@ -22,4 +22,4 @@ Output:
 
 ### How it works
 
-Firstly when a user inputs his "Gas Price" it gets converted into a float, because gas prices usually have comma values. UGC then finds out the percent it has to fill by taking 100 (total) and deducting their "Tank Level" which then gets multiplied by the "Gas Price".
+Firstly when a user inputs his "Gas Price" it gets converted into a float value, because gas prices usually have comma values. UGC then finds out the percent it has to fill by taking 100 (total) and deducting their "Tank Level" which then gets multiplied by the "Gas Price".
