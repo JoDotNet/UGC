@@ -4,7 +4,6 @@ UGC is a tool made specifically for Unturned role-play servers.
 
 <img src="https://github.com/xxjoxx25/UGC/blob/main/Images/Icon.png?raw=true=" width="150" height="150" />
 
-[![AltText](https://raw.githubusercontent.com/XxJOxX25/UGC/main/Images/Download.png)](https://github.com/XxJOxX25/UGC/releases/download/latest/Unturned.Gas.Calculator.exe)
 
 
 ### Using UGC
@@ -32,3 +31,6 @@ Firstly when a user inputs his "Gas Price" it gets converted into a float value,
 
 - Graphical UI
 - Config File (default gas price etc.)
+
+#
+[![AltText](https://raw.githubusercontent.com/XxJOxX25/UGC/main/Images/Download.png)](https://github.com/XxJOxX25/UGC/releases/download/latest/Unturned.Gas.Calculator.exe)
