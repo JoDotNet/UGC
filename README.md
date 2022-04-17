@@ -16,7 +16,6 @@ UGC is a tool made specifically for Unturned role-play servers.
 <pre><code>Current Gas Price: 0.63
 Tank Level: 30
 
-Output:
 Total Price: 44.1
 </code></pre>
 
