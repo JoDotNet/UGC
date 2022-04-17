@@ -4,6 +4,8 @@ Unturned Gas Calculator
 Updates:
     16.04.2022 | Version 1.0 - release
     16.04.2022 | Version 1.1 - Fixed str to int issue
+    17.04.2022 | Version 1.2 - Added an Icon to exe
+
 
 """
 
