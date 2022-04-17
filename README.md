@@ -2,6 +2,7 @@
 
 UGC is a tool made specifically for Unturned role-play servers.
 
+<img src="https://github.com/xxjoxx25/UGC/blob/main/Images/Icon.png?raw=true=" width="150" height="150" />
 
 ### Using UGC
 
@@ -11,14 +12,14 @@ UGC is a tool made specifically for Unturned role-play servers.
 
 ### Example
 
-Current Gas Price: 0.63
 
+<pre><code>Current Gas Price: 0.63
 Tank Level: 30
 
 Output:
-
-<pre><code> Total Price: 44.1
+Total Price: 44.1
 </code></pre>
+
 
 ### How it works
 
