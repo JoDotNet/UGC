@@ -40,5 +40,3 @@ Firstly when a user inputs his "Gas Price" it gets converted into a float value,
 
 - Config File (default gas price etc.)
 
-#
-[![AltText](https://raw.githubusercontent.com/XxJOxX25/UGC/main/Images/Download.png)](https://github.com/XxJOxX25/UGC/releases/download/latest/Unturned.Gas.Calculator.exe)
