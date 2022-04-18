@@ -3,7 +3,7 @@
 UGC is a tool made specifically for Unturned RP servers.
 
 ### Download:
-[![AltText](https://raw.githubusercontent.com/XxJOxX25/UGC/main/Assets/ConsoleBTN.png)](https://github.com/XxJOxX25/UGC/releases/download/V1.3/UGC_Console.exe) ⠀⠀⠀[![AltText](https://raw.githubusercontent.com/XxJOxX25/UGC/main/Assets/GraphicsBTN.png)](https://github.com/XxJOxX25/UGC/releases/download/V1.3/Unzip_Me.zip)
+[![AltText](https://raw.githubusercontent.com/XxJOxX25/UGC/main/Assets/ConsoleBTN.png)](https://github.com/XxJOxX25/UGC/releases/download/V1.3/UGC_Console.exe) ⠀[![AltText](https://raw.githubusercontent.com/XxJOxX25/UGC/main/Assets/GraphicsBTN.png)](https://github.com/XxJOxX25/UGC/releases/download/V1.3/Unzip_Me.zip)
 
 #
 
